@@ -1,0 +1,6 @@
+name: Sleepcommand
+version: 1.0
+author: Hanuta
+main: az.main.Mainclass
+commands:
+  sleep:
